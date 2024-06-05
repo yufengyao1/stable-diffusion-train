@@ -1,4 +1,4 @@
-# Stable Diffusion Training Self Data
+# Stable Diffusion 2.0 Training Self Data Only using one 16G gpu
 
 <p align="center">
     <img height="400"  src="assets/stable-samples/txt2img/1.png">
